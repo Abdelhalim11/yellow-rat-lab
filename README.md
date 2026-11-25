@@ -17,7 +17,9 @@ Abnormal network traffic from several workstations, plus search redirections to 
 `30e527e45f50d2ba82865c5679a6fa998ee0a1755361ab01673950810d071c85`
 
 ![The malware hash from hash.txt](images/01-hash.png)
-
+## tools
+VirusTotal 
+Red Canary
 ## Analysis
 
 ### Q1: What name does Red Canary use for the threat cluster associated with the SHA256?
