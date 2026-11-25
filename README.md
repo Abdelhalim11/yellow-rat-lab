@@ -1,7 +1,7 @@
 # Yellow RAT Lab Write-Up: Tracking Yellow Cockatoo (SolarMarker) with VirusTotal and Red Canary
 
 *A blue-team walkthrough using only open-source threat intelligence.*
-
+**Lab:** [Yellow RAT on CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/yellow-rat/)
 ## Introduction
 
 In this lab we investigate an incident at **GlobalTech Industries**. During a routine IT security check, abnormal network traffic was detected from multiple workstations, and some employees' search queries were being redirected to unfamiliar websites.
